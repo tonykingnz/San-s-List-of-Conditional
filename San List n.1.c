@@ -1,5 +1,5 @@
-//by tonyKingNZ©
-//list of San n. 
+//by tonyKingNZÂ©
+//list of San n.1 
 //Oct. 17, 2017 16:24(BRST)
 
 #include <stdio.h>
